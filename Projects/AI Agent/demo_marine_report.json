@@ -1,0 +1,2706 @@
+{
+  "timestamp": "2025-08-18T09:21:31.083361",
+  "summary": {
+    "total_businesses": 199,
+    "states_covered": 18,
+    "specialty_breakdown": {
+      "Generator Service": 91,
+      "Marina Services": 40,
+      "Unknown": 24,
+      "Houseboat Services": 19,
+      "Engine Service": 14,
+      "General Repair": 6,
+      "Other": 5
+    },
+    "westerbeke_dealers": 87,
+    "engine_service_businesses": 14,
+    "generator_service_businesses": 91,
+    "marina_services": 40
+  },
+  "top_engine_service_businesses": [
+    {
+      "State": "AL",
+      "Company Name": "30 North Yacht Service (Thirty Degrees North)",
+      "Address": "22634 Canal Rd., Orange Beach, AL 36561",
+      "Contact Name": "Conner Jung (President)",
+      "Contact Phone": "(251) 980-2253",
+      "Contact Email": "service@30north.com",
+      "Specialty": "Marine Service & Westerbeke Dealer",
+      "Website": "https://30north.com",
+      "Notes": "Full-service marine specialists providing service, repair and maintenance for yachts and boats; authorized dealer for brands including Westerbeke:contentReference[oaicite:8]{index=8}:contentReference[oaicite:9]{index=9}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "AL",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MO",
+      "Company Name": "A & J Power Systems",
+      "Address": "2106 Aspen Road, Highlandville, MO 65669; P.O. Box 1031 Nixa, MO 65714",
+      "Contact Name": NaN,
+      "Contact Phone": "(417) 725-2506",
+      "Contact Email": "adam@aandjpower.com",
+      "Specialty": "Westerbeke generator service",
+      "Website": "https://www.aandjpower.com/page4#:~:text=We%20Provide%20Service%20for%20the",
+      "Notes": "Family\u2011owned generator sales and service company (since 1995) that services many generator brands. Their About page lists Westerbeke among the generators they service; contact page shows the Highlandville address and phone.",
+      "Unnamed: 9": NaN,
+      "State_Code": "MO",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "AL",
+      "Company Name": "Advanced Marine & Power Systems",
+      "Address": "25286 Canal Rd., Orange Beach, AL 36561",
+      "Contact Name": "Karen Whitworth (Office Manager)",
+      "Contact Phone": "(251) 981-6431",
+      "Contact Email": "info@advancedmarineandpower.com",
+      "Specialty": "Westerbeke Dealer & Marine Service",
+      "Website": "https://advancedmarineandpower.com",
+      "Notes": "Full-service marine provider with certified technicians that service engines and generators including Westerbeke; offers mobile boat repair and storage:contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "AL",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "engine",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MI",
+      "Company Name": "Advantage Marine Repair",
+      "Address": "483 Douglas Avenue, Holland, MI 49424",
+      "Contact Name": "*Service Manager*",
+      "Contact Phone": "(616) 748-9235",
+      "Contact Email": "service@advantagemarinerepair.com",
+      "Specialty": "Boat repair & Westerbeke generator services",
+      "Website": "https://advantagemarinerepair.com",
+      "Notes": "Authorized Westerbeke dealer; offers marine generator repair and onsite service",
+      "Unnamed: 9": NaN,
+      "State_Code": "MI",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MI",
+      "Company Name": "Anderson's Service Centers Inc.",
+      "Address": "2363 Weadock HWY, Essexville, MI",
+      "Contact Name": "*Unknown*",
+      "Contact Phone": "(989) 894-0552",
+      "Contact Email": "ascinc@andersonsservice.com",
+      "Specialty": "Westerbeke dealer & service",
+      "Website": "*N/A*",
+      "Notes": "Full-service marine shop; authorized Westerbeke service",
+      "Unnamed: 9": NaN,
+      "State_Code": "MI",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "AL",
+      "Company Name": "Angler Marine",
+      "Address": "417 Ed Hembree Dr., Scottsboro, AL 35769",
+      "Contact Name": "Joe King (owner)",
+      "Contact Phone": "(256) 574-4447",
+      "Contact Email": "anglermarineoffice@gmail.com",
+      "Specialty": "Houseboat & Yacht Repair Service",
+      "Website": "https://anglermarineinc.com/",
+      "Notes": "Full-service marine repair shop with a 50-ton Travelift that can accommodate large cruisers, yachts and houseboats. Provides engine service, bottom paint, fiberglass repair, etc:contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "AL",
+      "Specialty_Category": "Houseboat Services",
+      "Engine_Keywords": [
+        "engine"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "OK",
+      "Company Name": "Arrowhead Yacht Club & Marina",
+      "Address": "33298 Lakeside Drive, Afton, OK 74331",
+      "Contact Name": "Brian\u00a0Stengel*",
+      "Contact Phone": "(918) 782-3292",
+      "Contact Email": "brian.stengel@arrowheadok.com",
+      "Specialty": "Westerbeke Factory Direct dealer; full\u2011service marina",
+      "Website": "https://arrowheadok.com",
+      "Notes": "Westerbeke dealer list provides address, phone & email.",
+      "Unnamed: 9": " ",
+      "State_Code": "OK",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MO",
+      "Company Name": "Balkenbush Service Company (Ozark Power)",
+      "Address": "907 Missouri Blvd., Jefferson City, MO 65109",
+      "Contact Name": NaN,
+      "Contact Phone": "(573) 636-0070",
+      "Contact Email": "service@balkenbushmechanical.com",
+      "Specialty": "Westerbeke generator service",
+      "Website": "https://balkenbushpower.com/#:~:text=Brands%20We%20Offer%20at%20Ozark",
+      "Notes": "Ozark Power division offers backup power generation solutions and marine diesel engine service. Their site lists Westerbeke among the brands they offer and service; contact section provides the address, phone and email.",
+      "Unnamed: 9": NaN,
+      "State_Code": "MO",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "diesel",
+        "engine"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MI",
+      "Company Name": "Bay Harbor Marina",
+      "Address": "5309 East Wilder Road, Bay City, MI 48706",
+      "Contact Name": "Dale Gettel",
+      "Contact Phone": "(989) 684-5010",
+      "Contact Email": "dave@bayharborbaycity.com",
+      "Specialty": "Full-service marina & repair",
+      "Website": "https://bayharborbaycity.com",
+      "Notes": "458-slip marina; accommodates vessels up to 70 ft and offers engine repair",
+      "Unnamed: 9": NaN,
+      "State_Code": "MI",
+      "Specialty_Category": "Marina Services",
+      "Engine_Keywords": [
+        "engine"
+      ],
+      "Max_Slip_Size": 70
+    },
+    {
+      "State": "IL",
+      "Company Name": "Bay Marine of Chicago",
+      "Address": "3 East Madison Street, Waukegan, IL",
+      "Contact Name": "Brendan*",
+      "Contact Phone": "(847) 336-2628",
+      "Contact Email": "brendan@baymarine.net",
+      "Specialty": "Westerbeke dealer & full\u2011service marina",
+      "Website": "https://www.baymarinechicago.com/services",
+      "Notes": "Listed as Full Service Dealer in Westerbeke PDF",
+      "Unnamed: 9": NaN,
+      "State_Code": "IL",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "WI",
+      "Company Name": "Bay Marine of Sturgeon Bay",
+      "Address": "155 E Redwood St, Sturgeon Bay, WI 54235",
+      "Contact Name": "Greg\u00a0Gast (General\u00a0Manager)",
+      "Contact Phone": "(920) 743-6526",
+      "Contact Email": "ggast@baymarinesturgeonbay.com",
+      "Specialty": "Westerbeke dealer & full\u2011service marina",
+      "Website": "https://baymarinesturgeonbay.com",
+      "Notes": "Authorized service center that lists Westerbeke among manufacturers supported:contentReference[oaicite:5]{index=5}. Greg\u00a0Gast is the general manager according to the service page:contentReference[oaicite:6]{index=6}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "WI",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "gas"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MS",
+      "Company Name": "Bay Springs Marina",
+      "Address": "48 County Road 3495, New Site, MS 38859",
+      "Contact Name": "Chris Mills*",
+      "Contact Phone": "(662) 728-2449",
+      "Contact Email": "millsct1959@yahoo.com",
+      "Specialty": "Westerbeke dealer & full-service marina",
+      "Website": "https://www.bayspringsmarina.com",
+      "Notes": "Family-owned marina with 165 slips and travel lift for boats up to 80 ft; designated Westerbeke dealer",
+      "Unnamed: 9": NaN,
+      "State_Code": "MS",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 80
+    },
+    {
+      "State": "MN",
+      "Company Name": "Bayport Marina Association",
+      "Address": "200 Fifth Ave S, Bayport, MN 55003",
+      "Contact Name": "Kori Derrick (General Manager)",
+      "Contact Phone": "(651) 439-2040",
+      "Contact Email": "info@bayportmarina.com",
+      "Specialty": "Full-service marina; Westerbeke experienced service",
+      "Website": "https://www.bayportmarina.com",
+      "Notes": "Certified full\u2011service marina with mechanical services; technicians are highly experienced in Crusader, Volvo, Yanmar and Westerbeke generators:contentReference[oaicite:15]{index=15}. BBB listing identifies Kori\u00a0Derrick as General Manager:contentReference[oaicite:16]{index=16}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "MN",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "yanmar",
+        "volvo",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "AL",
+      "Company Name": "Blue Water Marine Service",
+      "Address": "8103 Hwy. 59 S., Foley, AL 36535",
+      "Contact Name": "Chris & Tracy Price (Owners)",
+      "Contact Phone": "(251) 943-4179",
+      "Contact Email": "info@bluewatermarineservice.com*",
+      "Specialty": "Generator & AC Repair Services",
+      "Website": "https://bluewatermarineservice.net",
+      "Notes": "Marine supply store with a service department specialising in electronics installation/repair, generator/AC repair, refrigeration and maintenance services:contentReference[oaicite:2]{index=2}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "AL",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MS",
+      "Company Name": "Brian's Marine LLC",
+      "Address": "24049 Rose Blvd, Gulfport, MS 39503",
+      "Contact Name": "(Name unavailable)*",
+      "Contact Phone": "(601) 259-9745",
+      "Contact Email": "briansmarine@hotmail.com",
+      "Specialty": "Westerbeke full-service dealer",
+      "Website": NaN,
+      "Notes": "Factory-listed Westerbeke dealer; details limited",
+      "Unnamed: 9": NaN,
+      "State_Code": "MS",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "WI",
+      "Company Name": "Bridgeport Marine (Houlton)",
+      "Address": "1441 Hwy\u00a064, Houlton, WI 54082",
+      "Contact Name": "Manager*",
+      "Contact Phone": "(715) 549-6554",
+      "Contact Email": "info@bridgeportmarine.com*",
+      "Specialty": "Boat dealer & Westerbeke service",
+      "Website": "https://www.bridgeportmarine.com",
+      "Notes": "Listed as a Westerbeke dealer in the manufacturer\u2019s dealer directory. No dedicated houseboat services found; contact details inferred from general store information.",
+      "Unnamed: 9": NaN,
+      "State_Code": "WI",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "cat"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "AR",
+      "Company Name": "Bull Shoals Lake Boat Dock",
+      "Address": "140 Boat Dock Cove, P.O. Box 748, Bull Shoals, AR 72619",
+      "Contact Name": "Ricky Eastwold",
+      "Contact Phone": "(870) 445-4424",
+      "Contact Email": "bslbd@southshore.com",
+      "Specialty": "Houseboat rentals & Westerbeke dealer/service",
+      "Website": "https://www.bullshoalslakeboatdock.com",
+      "Notes": "50- and 60-ft houseboats; Westerbeke dealer from PDF and BBB",
+      "Unnamed: 9": NaN,
+      "State_Code": "AR",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MI",
+      "Company Name": "Burkhard's Marine Inc.",
+      "Address": "7528 Jericho Road, Stevensville, MI",
+      "Contact Name": "*Unknown*",
+      "Contact Phone": "(269) 876-0229",
+      "Contact Email": "sksb1258@msn.com",
+      "Specialty": "Marine service & Westerbeke dealer",
+      "Website": "*N/A*",
+      "Notes": "Full-service marine provider and authorized Westerbeke dealer",
+      "Unnamed: 9": NaN,
+      "State_Code": "MI",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "OH",
+      "Company Name": "Burt's Diesel Service, Inc.",
+      "Address": "1428 W Main St, Woodville, OH 43469",
+      "Contact Name": "Allan\u00a0Huss",
+      "Contact Phone": "(419) 849-3853",
+      "Contact Email": "info@burtsdiesel.com*",
+      "Specialty": "Boat engine repair & marine sales (Westerbeke service)",
+      "Website": "https://www.burtsdieselservice.com",
+      "Notes": "BBB profile lists owner Allan\u00a0Huss and notes they specialize in boat engine repair and marine sales:contentReference[oaicite:26]{index=26}. Email inferred from business domain*.",
+      "Unnamed: 9": NaN,
+      "State_Code": "OH",
+      "Specialty_Category": "Engine Service",
+      "Engine_Keywords": [
+        "engine"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MS",
+      "Company Name": "Captain's Wharf Marina",
+      "Address": "1408 Cowan Rd, Gulfport, MS 39507",
+      "Contact Name": "(Name unavailable)*",
+      "Contact Phone": "(228) 669-9237",
+      "Contact Email": "(Email unavailable)*",
+      "Specialty": "Wet and covered dry slips",
+      "Website": "http://captainswharfmarina.com",
+      "Notes": "New marina with gas/diesel dock; news article notes capacity up to 150\u00a0ft",
+      "Unnamed: 9": NaN,
+      "State_Code": "MS",
+      "Specialty_Category": "Marina Services",
+      "Engine_Keywords": [
+        "diesel",
+        "gas"
+      ],
+      "Max_Slip_Size": 150
+    }
+  ],
+  "westerbeke_dealers": [
+    {
+      "State": "AL",
+      "Company Name": "30 North Yacht Service (Thirty Degrees North)",
+      "Address": "22634 Canal Rd., Orange Beach, AL 36561",
+      "Contact Name": "Conner Jung (President)",
+      "Contact Phone": "(251) 980-2253",
+      "Contact Email": "service@30north.com",
+      "Specialty": "Marine Service & Westerbeke Dealer",
+      "Website": "https://30north.com",
+      "Notes": "Full-service marine specialists providing service, repair and maintenance for yachts and boats; authorized dealer for brands including Westerbeke:contentReference[oaicite:8]{index=8}:contentReference[oaicite:9]{index=9}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "AL",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "TX",
+      "Company Name": "5 Star Marine",
+      "Address": "4542 Doss Road, Austin, TX 78734",
+      "Contact Name": NaN,
+      "Contact Phone": "(512) 266-1858",
+      "Contact Email": "5starmarine.info@gmail.com",
+      "Specialty": NaN,
+      "Website": "fivestarmarine.net",
+      "Notes": "Full-service boat yard; has Westerbeke Generator Factory Certified technicians; provides generator service and parts.",
+      "Unnamed: 9": NaN,
+      "State_Code": "TX",
+      "Specialty_Category": "Unknown",
+      "Engine_Keywords": [
+        "westerbeke",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MO",
+      "Company Name": "A & J Power Systems",
+      "Address": "2106 Aspen Road, Highlandville, MO 65669; P.O. Box 1031 Nixa, MO 65714",
+      "Contact Name": NaN,
+      "Contact Phone": "(417) 725-2506",
+      "Contact Email": "adam@aandjpower.com",
+      "Specialty": "Westerbeke generator service",
+      "Website": "https://www.aandjpower.com/page4#:~:text=We%20Provide%20Service%20for%20the",
+      "Notes": "Family\u2011owned generator sales and service company (since 1995) that services many generator brands. Their About page lists Westerbeke among the generators they service; contact page shows the Highlandville address and phone.",
+      "Unnamed: 9": NaN,
+      "State_Code": "MO",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "AL",
+      "Company Name": "Advanced Marine & Power Systems",
+      "Address": "25286 Canal Rd., Orange Beach, AL 36561",
+      "Contact Name": "Karen Whitworth (Office Manager)",
+      "Contact Phone": "(251) 981-6431",
+      "Contact Email": "info@advancedmarineandpower.com",
+      "Specialty": "Westerbeke Dealer & Marine Service",
+      "Website": "https://advancedmarineandpower.com",
+      "Notes": "Full-service marine provider with certified technicians that service engines and generators including Westerbeke; offers mobile boat repair and storage:contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "AL",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "engine",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MI",
+      "Company Name": "Advantage Marine Repair",
+      "Address": "483 Douglas Avenue, Holland, MI 49424",
+      "Contact Name": "*Service Manager*",
+      "Contact Phone": "(616) 748-9235",
+      "Contact Email": "service@advantagemarinerepair.com",
+      "Specialty": "Boat repair & Westerbeke generator services",
+      "Website": "https://advantagemarinerepair.com",
+      "Notes": "Authorized Westerbeke dealer; offers marine generator repair and onsite service",
+      "Unnamed: 9": NaN,
+      "State_Code": "MI",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "TX",
+      "Company Name": "Allen Mobile Marine Service",
+      "Address": "10957 Meadow Wood Ln, Willis, TX 77318",
+      "Contact Name": NaN,
+      "Contact Phone": "(713) 448-0703",
+      "Contact Email": "allenmobilemarine@gmail.com",
+      "Specialty": NaN,
+      "Website": NaN,
+      "Notes": "Factory-direct dealer listed by Westerbeke; provides mobile marine service.",
+      "Unnamed: 9": NaN,
+      "State_Code": "TX",
+      "Specialty_Category": "Unknown",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MI",
+      "Company Name": "Anderson's Service Centers Inc.",
+      "Address": "2363 Weadock HWY, Essexville, MI",
+      "Contact Name": "*Unknown*",
+      "Contact Phone": "(989) 894-0552",
+      "Contact Email": "ascinc@andersonsservice.com",
+      "Specialty": "Westerbeke dealer & service",
+      "Website": "*N/A*",
+      "Notes": "Full-service marine shop; authorized Westerbeke service",
+      "Unnamed: 9": NaN,
+      "State_Code": "MI",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "OK",
+      "Company Name": "Arrowhead Yacht Club & Marina",
+      "Address": "33298 Lakeside Drive, Afton, OK 74331",
+      "Contact Name": "Brian\u00a0Stengel*",
+      "Contact Phone": "(918) 782-3292",
+      "Contact Email": "brian.stengel@arrowheadok.com",
+      "Specialty": "Westerbeke Factory Direct dealer; full\u2011service marina",
+      "Website": "https://arrowheadok.com",
+      "Notes": "Westerbeke dealer list provides address, phone & email.",
+      "Unnamed: 9": " ",
+      "State_Code": "OK",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MO",
+      "Company Name": "Balkenbush Service Company (Ozark Power)",
+      "Address": "907 Missouri Blvd., Jefferson City, MO 65109",
+      "Contact Name": NaN,
+      "Contact Phone": "(573) 636-0070",
+      "Contact Email": "service@balkenbushmechanical.com",
+      "Specialty": "Westerbeke generator service",
+      "Website": "https://balkenbushpower.com/#:~:text=Brands%20We%20Offer%20at%20Ozark",
+      "Notes": "Ozark Power division offers backup power generation solutions and marine diesel engine service. Their site lists Westerbeke among the brands they offer and service; contact section provides the address, phone and email.",
+      "Unnamed: 9": NaN,
+      "State_Code": "MO",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "diesel",
+        "engine"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "IL",
+      "Company Name": "Bay Marine of Chicago",
+      "Address": "3 East Madison Street, Waukegan, IL",
+      "Contact Name": "Brendan*",
+      "Contact Phone": "(847) 336-2628",
+      "Contact Email": "brendan@baymarine.net",
+      "Specialty": "Westerbeke dealer & full\u2011service marina",
+      "Website": "https://www.baymarinechicago.com/services",
+      "Notes": "Listed as Full Service Dealer in Westerbeke PDF",
+      "Unnamed: 9": NaN,
+      "State_Code": "IL",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "WI",
+      "Company Name": "Bay Marine of Sturgeon Bay",
+      "Address": "155 E Redwood St, Sturgeon Bay, WI 54235",
+      "Contact Name": "Greg\u00a0Gast (General\u00a0Manager)",
+      "Contact Phone": "(920) 743-6526",
+      "Contact Email": "ggast@baymarinesturgeonbay.com",
+      "Specialty": "Westerbeke dealer & full\u2011service marina",
+      "Website": "https://baymarinesturgeonbay.com",
+      "Notes": "Authorized service center that lists Westerbeke among manufacturers supported:contentReference[oaicite:5]{index=5}. Greg\u00a0Gast is the general manager according to the service page:contentReference[oaicite:6]{index=6}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "WI",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "gas"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MS",
+      "Company Name": "Bay Springs Marina",
+      "Address": "48 County Road 3495, New Site, MS 38859",
+      "Contact Name": "Chris Mills*",
+      "Contact Phone": "(662) 728-2449",
+      "Contact Email": "millsct1959@yahoo.com",
+      "Specialty": "Westerbeke dealer & full-service marina",
+      "Website": "https://www.bayspringsmarina.com",
+      "Notes": "Family-owned marina with 165 slips and travel lift for boats up to 80 ft; designated Westerbeke dealer",
+      "Unnamed: 9": NaN,
+      "State_Code": "MS",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 80
+    },
+    {
+      "State": "MN",
+      "Company Name": "Bayport Marina Association",
+      "Address": "200 Fifth Ave S, Bayport, MN 55003",
+      "Contact Name": "Kori Derrick (General Manager)",
+      "Contact Phone": "(651) 439-2040",
+      "Contact Email": "info@bayportmarina.com",
+      "Specialty": "Full-service marina; Westerbeke experienced service",
+      "Website": "https://www.bayportmarina.com",
+      "Notes": "Certified full\u2011service marina with mechanical services; technicians are highly experienced in Crusader, Volvo, Yanmar and Westerbeke generators:contentReference[oaicite:15]{index=15}. BBB listing identifies Kori\u00a0Derrick as General Manager:contentReference[oaicite:16]{index=16}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "MN",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "yanmar",
+        "volvo",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MS",
+      "Company Name": "Brian's Marine LLC",
+      "Address": "24049 Rose Blvd, Gulfport, MS 39503",
+      "Contact Name": "(Name unavailable)*",
+      "Contact Phone": "(601) 259-9745",
+      "Contact Email": "briansmarine@hotmail.com",
+      "Specialty": "Westerbeke full-service dealer",
+      "Website": NaN,
+      "Notes": "Factory-listed Westerbeke dealer; details limited",
+      "Unnamed: 9": NaN,
+      "State_Code": "MS",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "WI",
+      "Company Name": "Bridgeport Marine (Houlton)",
+      "Address": "1441 Hwy\u00a064, Houlton, WI 54082",
+      "Contact Name": "Manager*",
+      "Contact Phone": "(715) 549-6554",
+      "Contact Email": "info@bridgeportmarine.com*",
+      "Specialty": "Boat dealer & Westerbeke service",
+      "Website": "https://www.bridgeportmarine.com",
+      "Notes": "Listed as a Westerbeke dealer in the manufacturer\u2019s dealer directory. No dedicated houseboat services found; contact details inferred from general store information.",
+      "Unnamed: 9": NaN,
+      "State_Code": "WI",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "cat"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "AR",
+      "Company Name": "Bull Shoals Lake Boat Dock",
+      "Address": "140 Boat Dock Cove, P.O. Box 748, Bull Shoals, AR 72619",
+      "Contact Name": "Ricky Eastwold",
+      "Contact Phone": "(870) 445-4424",
+      "Contact Email": "bslbd@southshore.com",
+      "Specialty": "Houseboat rentals & Westerbeke dealer/service",
+      "Website": "https://www.bullshoalslakeboatdock.com",
+      "Notes": "50- and 60-ft houseboats; Westerbeke dealer from PDF and BBB",
+      "Unnamed: 9": NaN,
+      "State_Code": "AR",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MI",
+      "Company Name": "Burkhard's Marine Inc.",
+      "Address": "7528 Jericho Road, Stevensville, MI",
+      "Contact Name": "*Unknown*",
+      "Contact Phone": "(269) 876-0229",
+      "Contact Email": "sksb1258@msn.com",
+      "Specialty": "Marine service & Westerbeke dealer",
+      "Website": "*N/A*",
+      "Notes": "Full-service marine provider and authorized Westerbeke dealer",
+      "Unnamed: 9": NaN,
+      "State_Code": "MI",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "TX",
+      "Company Name": "Canyon Lake Marina (Suntex)",
+      "Address": "280 Marina Drive, Canyon Lake, TX 78133; 16440 Cranes Mill Road #1, Canyon Lake, TX 78133",
+      "Contact Name": NaN,
+      "Contact Phone": "830-255-7442 (Canyon Lake Marina); 830-299-7220 (Cranes Mill)",
+      "Contact Email": "canyonlakemarina@suntex.com; cranesmill@suntex.com; clservice@suntex.com",
+      "Specialty": NaN,
+      "Website": "canyonlakemarina.com",
+      "Notes": "Marina with service department; authorized Westerbeke dealer; contact info includes both Canyon Lake Marina and Cranes Mill Marina.",
+      "Unnamed: 9": NaN,
+      "State_Code": "TX",
+      "Specialty_Category": "Unknown",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "TX",
+      "Company Name": "Cedar Mills Marina & Resort",
+      "Address": "500 Harbour View Road, Gordonville, TX 76245",
+      "Contact Name": NaN,
+      "Contact Phone": "(903) 523-4222",
+      "Contact Email": "parts@cedarmills.com",
+      "Specialty": NaN,
+      "Website": "cedarmills.com",
+      "Notes": "Authorized Westerbeke dealer; parts & service department sells and services Westerbeke engines and generators.",
+      "Unnamed: 9": NaN,
+      "State_Code": "TX",
+      "Specialty_Category": "Unknown",
+      "Engine_Keywords": [
+        "westerbeke",
+        "engine",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MI",
+      "Company Name": "Crosswinds Marine Service",
+      "Address": "302 South Lake Street, Whitehall, MI 49461",
+      "Contact Name": "Dale *",
+      "Contact Phone": "(231) 894-4549",
+      "Contact Email": "dale@crosswindsmarineservice.com",
+      "Specialty": "Full-service marina & Westerbeke-certified",
+      "Website": "https://crosswindsmarineservice.com",
+      "Notes": "Factory-certified Westerbeke technicians; slips 30\u201350 ft with transients up to 105 ft",
+      "Unnamed: 9": NaN,
+      "State_Code": "MI",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 105
+    },
+    {
+      "State": "IL",
+      "Company Name": "Crowley's Yacht Yard",
+      "Address": "3434 East 95TH Street, Chicago, IL",
+      "Contact Name": "L. Spies*",
+      "Contact Phone": "(773) 221-9990",
+      "Contact Email": "lspies@crowleys.com",
+      "Specialty": "Mechanical services & Westerbeke\u2011certified technicians",
+      "Website": "https://crowleys.com/mechanical-services",
+      "Notes": "Full/Internet Westerbeke dealer",
+      "Unnamed: 9": NaN,
+      "State_Code": "IL",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MI",
+      "Company Name": "Damark Marine Specialties",
+      "Address": "29021 Wilson Avenue, Gibraltar, MI",
+      "Contact Name": "*Unknown*",
+      "Contact Phone": "(734) 676-2880",
+      "Contact Email": "damarkmarine@hotmail.com",
+      "Specialty": "Marine specialties & Westerbeke dealer",
+      "Website": "*N/A*",
+      "Notes": "Authorized Westerbeke dealer and marine supply firm",
+      "Unnamed: 9": NaN,
+      "State_Code": "MI",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MO",
+      "Company Name": "Dan\u2019s Marine Service",
+      "Address": "50 Marina Way, Kimberling City, MO 65686",
+      "Contact Name": NaN,
+      "Contact Phone": "(417) 739-1230",
+      "Contact Email": "DansMarine@mediacombb.net",
+      "Specialty": "Westerbeke repair & houseboat service",
+      "Website": "https://dansmarinetablerock.com/services/#:~:text=Since%201995%2C%20Dan%E2%80%99s%20Marine%20has",
+      "Notes": "Boat service and repair shop on Table Rock Lake since 1995; factory\u2011trained on Mercruiser, OMC, Mercury, Johnson, Evinrude, Volvo Penta and Westerbeke. Provides fiberglass/steel hull repair, including houseboats and day cruisers, and maintains a parts inventory.",
+      "Unnamed: 9": NaN,
+      "State_Code": "MO",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "volvo",
+        "mercury",
+        "mercruiser"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "OK",
+      "Company Name": "Dickson Marine Service\u00a0LLC",
+      "Address": "26275 South Highway 125, Afton, OK 74331",
+      "Contact Name": "Bobby*",
+      "Contact Phone": "(918) 314-4419",
+      "Contact Email": "bobby@dicksonmarineservice.com",
+      "Specialty": "Westerbeke dealer; boat engine & generator service",
+      "Website": "https://dicksonmarineservice.com",
+      "Notes": "Westerbeke dealer list gives address, phone & email.",
+      "Unnamed: 9": " ",
+      "State_Code": "OK",
+      "Specialty_Category": "Engine Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "LA",
+      "Company Name": "Diesel Parts Direct",
+      "Address": "8784 S Choctaw Dr, Baton Rouge, LA 70815",
+      "Contact Name": "Whit Kellam",
+      "Contact Phone": "(225) 928-1913",
+      "Contact Email": "wkellam@dieselpartsdirect.com",
+      "Specialty": "Authorized Westerbeke dealer \u2013 sales & service",
+      "Website": "https://www.dieselpartsdirect.com",
+      "Notes": "Authorized Westerbeke dealer supplying parts and marine generators (20\u201325 kW) and offering service",
+      "Unnamed: 9": NaN,
+      "State_Code": "LA",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MI",
+      "Company Name": "Drummond Marine Inc.",
+      "Address": "435 W 17th Street, Holland, MI",
+      "Contact Name": "*Unknown*",
+      "Contact Phone": "(616) 494-0814",
+      "Contact Email": "drummondmarine@sbcglobal.net",
+      "Specialty": "Marine service & Westerbeke dealer",
+      "Website": "*N/A*",
+      "Notes": "Full-service marine repair and authorized Westerbeke dealer",
+      "Unnamed: 9": NaN,
+      "State_Code": "MI",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "TX",
+      "Company Name": "Eisenhower Yacht Club Marina",
+      "Address": "2141 Park Road 20, Denison, TX 75020",
+      "Contact Name": NaN,
+      "Contact Phone": "(903) 463-3999",
+      "Contact Email": "eyc@eisenhoweryachtclub.com",
+      "Specialty": NaN,
+      "Website": "boattexoma.com",
+      "Notes": "Marina on Lake Texoma; service department works on cruisers, yachts and Westerbeke generators (certified dealer).",
+      "Unnamed: 9": NaN,
+      "State_Code": "TX",
+      "Specialty_Category": "Unknown",
+      "Engine_Keywords": [
+        "westerbeke",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "TX",
+      "Company Name": "Elite Diesel Service LLC",
+      "Address": "2103 Anders Ln, Kemah, TX 77565; 201 Hwy 35 South, Rockport, TX 78382",
+      "Contact Name": NaN,
+      "Contact Phone": "281-535-0200 (Kemah); 361-729-2000 (Rockport)",
+      "Contact Email": "jbowen@elitedieselservice.com; mfleming@elitedieselservice.com; service@elitedieselservice.com",
+      "Specialty": NaN,
+      "Website": "elitedieselservice.com",
+      "Notes": "Certified Westerbeke dealer; offers generator sales and service, parts including Westerbeke products.",
+      "Unnamed: 9": NaN,
+      "State_Code": "TX",
+      "Specialty_Category": "Unknown",
+      "Engine_Keywords": [
+        "westerbeke",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "TX",
+      "Company Name": "Extreme Marine Service LLC",
+      "Address": "135 Shark Ln, Freeport, TX 77541",
+      "Contact Name": NaN,
+      "Contact Phone": "(979) 248-0934",
+      "Contact Email": NaN,
+      "Specialty": NaN,
+      "Website": "extrememarineservice.net",
+      "Notes": "Mobile boat repair service listed as factory-direct dealer in Westerbeke PDF.",
+      "Unnamed: 9": NaN,
+      "State_Code": "TX",
+      "Specialty_Category": "Unknown",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MO",
+      "Company Name": "Firstmate Yacht Services ",
+      "Address": "3502 Bagnell Dam Blvd, Lake Ozark, MO 65049 ",
+      "Contact Name": NaN,
+      "Contact Phone": "(573) 216-2050",
+      "Contact Email": "service@fmys1.com",
+      "Specialty": "Westerbeke generator service",
+      "Website": "https://www.doublediamondmotorsports.com/marine-services#:~:text=Providing%20parts%20and%20quality%20service",
+      "Notes": "Marine service company at Lake of the Ozarks providing winterization, maintenance and generator service; their service page notes they perform complete service and installation on gas and diesel generators from Westerbeke, Kohler, and Onan.",
+      "Unnamed: 9": NaN,
+      "State_Code": "MO",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "diesel",
+        "gas",
+        "generator",
+        "kohler"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MO",
+      "Company Name": "Formula Boats of Missouri",
+      "Address": "4810 Formula Drive, Osage Beach, MO 65065",
+      "Contact Name": "Service - Russ Nelson: Parts - Ken Peterson ",
+      "Contact Phone": "573-216-3624; 573-302-8000",
+      "Contact Email": "Russn@formulaboatsmo.com; Kenp@formulaboatsmo.com",
+      "Specialty": "Westerbeke parts & service",
+      "Website": "https://formulaboatsmo.com/parts.asp#:~:text=Formula%20Boats%20of%20Missouri%20maintains",
+      "Notes": "Authorized Formula boat dealer. Their parts department maintains a large selection of parts for Mercury Outboards, MerCruiser, Volvo\u00a0Penta, Kohler and Westerbeke generators. The Lake of the Ozarks tourism site notes that Formula Boats of Missouri operates a premier marina at Lake of the Ozarks.",
+      "Unnamed: 9": NaN,
+      "State_Code": "MO",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "volvo",
+        "mercury",
+        "mercruiser",
+        "generator",
+        "kohler"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "PA",
+      "Company Name": "Full Performance Marine (Westerbeke dealer)",
+      "Address": "17442 Raystown Road, James Creek, PA 16657",
+      "Contact Name": "Matt*",
+      "Contact Phone": "(814) 658-2628",
+      "Contact Email": "fullperformancem@aol.com",
+      "Specialty": "Westerbeke marine generator dealer",
+      "Website": "https://www.fullperformancemarine.com/",
+      "Notes": "Westerbeke factory-direct dealer; sells and services generators; located at Lake Raystown.",
+      "Unnamed: 9": NaN,
+      "State_Code": "PA",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "generator",
+        "cat"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "WI",
+      "Company Name": "Gage Marine (Delavan)",
+      "Address": "5167 Highway\u00a050, Delavan, WI 53115",
+      "Contact Name": "Dave Cleveland (Service Mgr)",
+      "Contact Phone": "(262) 740-2628",
+      "Contact Email": "dave.cleveland@gagemarine.com",
+      "Specialty": "Westerbeke dealer & full\u2011service marina",
+      "Website": "https://gagemarine.com",
+      "Notes": "Offers boat sales, storage and marina services. Identified as a Westerbeke dealer in the manufacturer\u2019s listing; Dave\u00a0Cleveland is the service contact (email from the dealer list).",
+      "Unnamed: 9": NaN,
+      "State_Code": "WI",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "TX",
+      "Company Name": "Grandpappy Point Resort & Marina",
+      "Address": "132 Grandpappy Dr, Denison, TX 75020",
+      "Contact Name": NaN,
+      "Contact Phone": "(903) 465-6330",
+      "Contact Email": "larry@grandpappy.com",
+      "Specialty": NaN,
+      "Website": "grandpappy.com",
+      "Notes": "Large marina with service department; authorized Westerbeke dealer; contact details available.",
+      "Unnamed: 9": NaN,
+      "State_Code": "TX",
+      "Specialty_Category": "Unknown",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "OH",
+      "Company Name": "Great Lakes Diesel Inc.",
+      "Address": "13920 W Lake Rd, Vermilion, OH 44089",
+      "Contact Name": "Jim\u00a0Zima",
+      "Contact Phone": "(440) 963-9580",
+      "Contact Email": "info@greatlakesdieselmarine.com",
+      "Specialty": "Marine engine and generator sales & service (Westerbeke authorized)",
+      "Website": "https://www.greatlakesdieselmarine.com",
+      "Notes": "Company website lists address, phone and email and states they are factory-authorized for Yanmar, Scania, Kubota and Westerbeke engines and generators:contentReference[oaicite:21]{index=21}:contentReference[oaicite:22]{index=22}. Buzzfile notes owner Jim\u00a0Zima:contentReference[oaicite:23]{index=23}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "OH",
+      "Specialty_Category": "Engine Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "yanmar",
+        "engine",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "TX",
+      "Company Name": "Gulfstream Marine",
+      "Address": "200 S. Shoreline Blvd, Corpus Christi, TX 78401",
+      "Contact Name": NaN,
+      "Contact Phone": "(361) 883-8080",
+      "Contact Email": "gulfstreammarine1982@gmail.com; glandt@flash.net",
+      "Specialty": NaN,
+      "Website": NaN,
+      "Notes": "Marine service company; Yanmar dealer listing indicates sales/service of marine engines; listed as Westerbeke dealer.",
+      "Unnamed: 9": NaN,
+      "State_Code": "TX",
+      "Specialty_Category": "Unknown",
+      "Engine_Keywords": [
+        "westerbeke",
+        "yanmar",
+        "engine",
+        "cat"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "LA",
+      "Company Name": "Hemard Marine Service",
+      "Address": "136 Oak Ave, Westwego, LA 70094",
+      "Contact Name": "Eugene Hemard",
+      "Contact Phone": "(504) 437-0906",
+      "Contact Email": "Not provided*",
+      "Specialty": "Boat yard & Westerbeke service",
+      "Website": "Not available*",
+      "Notes": "Operates a boat yard offering storage and incidental repair; listed as Westerbeke dealer in regional dealer list",
+      "Unnamed: 9": NaN,
+      "State_Code": "LA",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "IN",
+      "Company Name": "Hoosier Hills Marina",
+      "Address": "10306 E. Lick Fork Marina Rd, Celestine, IN 47521",
+      "Contact Name": "Victor Polen",
+      "Contact Phone": "(812) 678-3313",
+      "Contact Email": "info@hoosierhillsmarina.com",
+      "Specialty": "Westerbeke generator dealer & full-service marina (slips up to 100\u2011ft houseboats)",
+      "Website": "https://hoosierhillsmarina.com",
+      "Notes": "Full\u2011service marina on Patoka Lake; offers slips up to 100\u2011ft houseboats and is a Westerbeke generator and boat trailer dealer:contentReference[oaicite:0]{index=0}; BBB lists Victor\u202fPolen as owner/manager:contentReference[oaicite:1]{index=1}",
+      "Unnamed: 9": NaN,
+      "State_Code": "IN",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "IN",
+      "Company Name": "JP Marine LLC",
+      "Address": "3909 Old Henderson Rd, Evansville, IN 47712",
+      "Contact Name": "Josh Pritchard",
+      "Contact Phone": "(812) 602-3333",
+      "Contact Email": "*",
+      "Specialty": "Westerbeke dealer; boat service & storage",
+      "Website": "https://jpmarinellc.com",
+      "Notes": "Authorized dealer for Kohler and Westerbeke generators:contentReference[oaicite:2]{index=2}; owner Josh\u00a0Pritchard works on every boat, including houseboats:contentReference[oaicite:3]{index=3}",
+      "Unnamed: 9": NaN,
+      "State_Code": "IN",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "generator",
+        "kohler"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MI",
+      "Company Name": "Jefferson Beach Yacht Sales (JBYS)",
+      "Address": "24400 Jefferson, St. Clair Shores, MI 48080",
+      "Contact Name": "D. Ottenhoff*",
+      "Contact Phone": "(866) 490-5297",
+      "Contact Email": "dottenhoff@jbys.com",
+      "Specialty": "Yacht sales & full service",
+      "Website": "https://jbys.com",
+      "Notes": "Yacht dealership providing maintenance and Westerbeke generator support",
+      "Unnamed: 9": NaN,
+      "State_Code": "MI",
+      "Specialty_Category": "General Repair",
+      "Engine_Keywords": [
+        "westerbeke",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "PA",
+      "Company Name": "Joseph T. Berrena Mechanicals (Westerbeke dealer)",
+      "Address": "279 Standing Stone Ave, Huntingdon, PA 16652",
+      "Contact Name": "Matt Berrena*",
+      "Contact Phone": "(814) 643-2645",
+      "Contact Email": "office@jtbmechanical.com",
+      "Specialty": "Westerbeke dealer & generator services",
+      "Website": "https://jtbmechanical.com/",
+      "Notes": "Factory-direct Westerbeke dealer providing generator sales and installation; central Pennsylvania.",
+      "Unnamed: 9": NaN,
+      "State_Code": "PA",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "LA",
+      "Company Name": "Junius Ship Shape, Inc.",
+      "Address": "7200 Lakeshore Dr, New Orleans, LA 70124",
+      "Contact Name": "Cletus Junius",
+      "Contact Phone": "(504) 283-5520",
+      "Contact Email": "JSS465@aol.com",
+      "Specialty": "Marine maintenance & Westerbeke service",
+      "Website": "Not available*",
+      "Notes": "Established in 1989; provides maintenance, repair, installations and boat deliveries; listed as a Westerbeke dealer",
+      "Unnamed: 9": NaN,
+      "State_Code": "LA",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MO",
+      "Company Name": "Kelly\u2019s Port",
+      "Address": "5250 Dude Ranch Rd., Osage Beach, MO 65065 (marina) and 3545 Osage Beach Pkwy, Osage Beach, MO 65065 (showroom)",
+      "Contact Name": "Service mgr - Alex Chisholm; General Marina Mgr - Ryan Kelly",
+      "Contact Phone": "573-348-4700 (marina); 573-348-3888 (showroom)",
+      "Contact Email": "Kyle@KellysPort.com",
+      "Specialty": "Westerbeke generator dealer/service",
+      "Website": "https://www.kellysport.com/service-repair-boats-dealership--service#:~:text=;https://www.kellysport.com/about-us-boats-dealership-lake-of-the-ozarks-missouri/--info#:~:text=Kelly%27s%20Port",
+      "Notes": "Full\u2011service marina and boat dealer that provides maintenance, repairs and emergency on\u2011water service. Their service department is an authorized dealer for Volvo Penta, Mercury, Yamaha, Kohler, Marine Air, Sealand Vacu\u2011Flush, Maxwell and Lewmar windlass anchors and Westerbeke generators.",
+      "Unnamed: 9": NaN,
+      "State_Code": "MO",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "volvo",
+        "mercury",
+        "generator",
+        "kohler"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "AR",
+      "Company Name": "Lacey's Boating Center / Narrows Marina",
+      "Address": "7674 Edgemont Rd, Greers Ferry, AR 72067",
+      "Contact Name": "Jon Stillwell",
+      "Contact Phone": "(501) 825-6214",
+      "Contact Email": "brooke@laceysmarina.com",
+      "Specialty": "Houseboat rentals & marina services",
+      "Website": "https://www.laceysmarina.com",
+      "Notes": "Offers 75-ft houseboat with 15 kW Westerbeke generator; staff page lists Jon Stillwell as marina manager",
+      "Unnamed: 9": NaN,
+      "State_Code": "AR",
+      "Specialty_Category": "Marina Services",
+      "Engine_Keywords": [
+        "westerbeke",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "TX",
+      "Company Name": "Land & Sea Marine Services",
+      "Address": "1900 Oak St., La Marque, TX 77568",
+      "Contact Name": NaN,
+      "Contact Phone": "(409) 935-9466",
+      "Contact Email": "Lns1900@sbcglobal.net",
+      "Specialty": NaN,
+      "Website": "landandseaservices.com",
+      "Notes": "Marine generator and engine sales/parts; contact page lists phone and address; authorized Westerbeke dealer.",
+      "Unnamed: 9": NaN,
+      "State_Code": "TX",
+      "Specialty_Category": "Unknown",
+      "Engine_Keywords": [
+        "westerbeke",
+        "engine",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "IL",
+      "Company Name": "Larsen Marine Service",
+      "Address": "625 Sea Horse Drive, Waukegan, IL",
+      "Contact Name": "B. Larsen*",
+      "Contact Phone": "(847) 336-5456",
+      "Contact Email": "blarsen@larsenmarine.com",
+      "Specialty": "Full\u2011service marina & authorized Westerbeke service center",
+      "Website": "https://larsenmarine.com/service/#Electronics",
+      "Notes": "Full Service Westerbeke dealer",
+      "Unnamed: 9": NaN,
+      "State_Code": "IL",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MS",
+      "Company Name": "Lee Spry Marine",
+      "Address": "89 County Road 351, Iuka, MS 38852",
+      "Contact Name": "(Name unavailable)*",
+      "Contact Phone": "(662) 424-9577",
+      "Contact Email": "leesprymarine@avsia.com",
+      "Specialty": "Marine repairs & Westerbeke dealer",
+      "Website": NaN,
+      "Notes": "Repairs hulls, engines & propellers; designated Westerbeke dealer",
+      "Unnamed: 9": NaN,
+      "State_Code": "MS",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "engine"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "WI",
+      "Company Name": "Manitowoc Marina",
+      "Address": "425 Maritime Dr, Manitowoc, WI 54220",
+      "Contact Name": "Gary\u00a0D\u2019Aoust* (Service Mgr)",
+      "Contact Phone": "(920) 682-5117",
+      "Contact Email": "service@manitowoc-marina.com",
+      "Specialty": "Authorized Westerbeke service & engine center",
+      "Website": "https://www.manitowoc-marina.com",
+      "Notes": "The marine engine service page states Manitowoc Marina is an authorized service center for Yanmar, Volvo\u00a0Penta, Westerbeke and Tohatsu marine motors:contentReference[oaicite:10]{index=10}. Team page lists Gary\u00a0D\u2019Aoust as service manager:contentReference[oaicite:11]{index=11}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "WI",
+      "Specialty_Category": "Engine Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "yanmar",
+        "volvo",
+        "engine",
+        "motor"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MN",
+      "Company Name": "Marine Center",
+      "Address": "119 N Washington St, Lake City, MN 55041",
+      "Contact Name": "James\u00a0Kranz*",
+      "Contact Phone": "(651) 345-4124",
+      "Contact Email": "mcenter@embarqmail.com",
+      "Specialty": "Boat services, repair & storage; Westerbeke dealer",
+      "Website": "N/A*",
+      "Notes": "Authorized Westerbeke full\u2011service dealer listing provides address and contact details. The Lake City Chamber of Commerce directory shows Marine Services, repair and storage and lists James\u00a0Kranz as contact:contentReference[oaicite:24]{index=24}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "MN",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MN",
+      "Company Name": "Marine Specialties (Red Wing Marine)",
+      "Address": "1303 Levee Rd, Red Wing, MN 55066",
+      "Contact Name": "Jared\u00a0*",
+      "Contact Phone": "(651) 388-4991",
+      "Contact Email": "jared@redwingmarine.com",
+      "Specialty": "Boat service & repair; Westerbeke dealer",
+      "Website": "N/A*",
+      "Notes": "Identified in Westerbeke factory\u2011dealer directory as a full\u2011service dealer in Red\u00a0Wing. The listing provides contact details but no public website; contact name is inferred from email (Jared).",
+      "Unnamed: 9": NaN,
+      "State_Code": "MN",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MN",
+      "Company Name": "MarineMax Minnesota (Rogers)",
+      "Address": "20300 County Rd\u00a081, Rogers, MN 55374",
+      "Contact Name": "N/A*",
+      "Contact Phone": "(763) 428-4126",
+      "Contact Email": "Thomas.Ortmann@marinemax.com",
+      "Specialty": "Boat dealer & service center; Westerbeke dealer",
+      "Website": "https://www.marinemax.com/stores/rogers",
+      "Notes": "Listed in the Westerbeke factory\u2011dealer directory as a full\u2011service dealer. Store page provides location and phone details:contentReference[oaicite:26]{index=26}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "MN",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "cat"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "TX",
+      "Company Name": "MarineMax San ANtonio",
+      "Address": "141 balcones North, San Antonio, TX",
+      "Contact Name": NaN,
+      "Contact Phone": "(210) 734-8199",
+      "Contact Email": "Chris.Jarmon@marinemax.com",
+      "Specialty": NaN,
+      "Website": NaN,
+      "Notes": "Boat dealership; listed as factory-direct Westerbeke dealer in PDF.",
+      "Unnamed: 9": NaN,
+      "State_Code": "TX",
+      "Specialty_Category": "Unknown",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "LA",
+      "Company Name": "McKoin Generator Service LLC",
+      "Address": "108 Olive St, Monroe, LA 71201",
+      "Contact Name": "Not specified*",
+      "Contact Phone": "(318) 855-4641",
+      "Contact Email": "Not provided*",
+      "Specialty": "Generator sales, service & installation",
+      "Website": "Not available*",
+      "Notes": "Platinum Kohler dealer providing sales and service up to 20 kW generators; included on Westerbeke dealer list",
+      "Unnamed: 9": NaN,
+      "State_Code": "LA",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "generator",
+        "kohler"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MI",
+      "Company Name": "Michigan Yacht Service LLC",
+      "Address": "31785 South River Road, Harrison Township, MI 48045",
+      "Contact Name": "Garrett Cassidy",
+      "Contact Phone": "(586) 469-4131",
+      "Contact Email": "michiganyachtservice@gmail.com",
+      "Specialty": "Westerbeke-certified yacht service",
+      "Website": "https://www.michiganyachtservice.com",
+      "Notes": "Certified dealership for Westerbeke, Kohler and other brands",
+      "Unnamed: 9": NaN,
+      "State_Code": "MI",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "kohler"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "IN",
+      "Company Name": "Midwest Lakes Marine\u00a0LLC",
+      "Address": "125 Arrowhead Trail, Bedford, IN 47421",
+      "Contact Name": "*",
+      "Contact Phone": "(812) 583-3202",
+      "Contact Email": "midwestlakesmarine@gmail.com",
+      "Specialty": "Westerbeke dealer (full service)",
+      "Website": "*",
+      "Notes": "Listed as a full\u2011service Westerbeke dealer in the Westerbeke dealers list with limited public information",
+      "Unnamed: 9": NaN,
+      "State_Code": "IN",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MI",
+      "Company Name": "Mobile Marine Service",
+      "Address": "01032 Advance Road South, East Jordan, MI",
+      "Contact Name": "*Unknown*",
+      "Contact Phone": "(231) 536-2872",
+      "Contact Email": "mobilemarine@twin-valley.net",
+      "Specialty": "Mobile boat repair & Westerbeke service",
+      "Website": "*N/A*",
+      "Notes": "Mobile marine service; authorized Westerbeke dealer",
+      "Unnamed: 9": NaN,
+      "State_Code": "MI",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "TX",
+      "Company Name": "Mockingbird Marine",
+      "Address": "2518 Todville Rd, Seabrook, TX 77586",
+      "Contact Name": NaN,
+      "Contact Phone": "(281) 326-2250",
+      "Contact Email": "mockingbirdmarine@yahoo.com",
+      "Specialty": NaN,
+      "Website": "mockingbirdmarine.com",
+      "Notes": "Full-service marine repairs; listed on Seabrook Marina site; handles electrical, air conditioning and Westerbeke dealers from PDF.",
+      "Unnamed: 9": NaN,
+      "State_Code": "TX",
+      "Specialty_Category": "Unknown",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MI",
+      "Company Name": "Northport Bay Boatyard",
+      "Address": "10824 North Shore Drive, Northport, MI 49670",
+      "Contact Name": "R. Thyer*",
+      "Contact Phone": "(231) 386-5151",
+      "Contact Email": "rthyer@npbby.com",
+      "Specialty": "Boatyard & Westerbeke dealer",
+      "Website": "*N/A*",
+      "Notes": "Provides boat storage and repair; authorized Westerbeke dealer",
+      "Unnamed: 9": NaN,
+      "State_Code": "MI",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "IA",
+      "Company Name": "Oak Hill Marina",
+      "Address": "176 Highway 71 South, Arnolds Park, IA 51331",
+      "Contact Name": "Service Department*",
+      "Contact Phone": "(712) 332-2701",
+      "Contact Email": "service@oakhillcompanies.com",
+      "Specialty": "Westerbeke dealer (sales & service)",
+      "Website": "https://oakhillmarina.com",
+      "Notes": "Westerbeke dealer list identifies Oak Hill Marina as a full service Westerbeke dealer",
+      "Unnamed: 9": NaN,
+      "State_Code": "IA",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "AR",
+      "Company Name": "Ouachita Marine Service",
+      "Address": "4201 Brady Mountain Rd, Royal, AR 71968",
+      "Contact Name": "Herschel Herron",
+      "Contact Phone": "(501) 767-3033",
+      "Contact Email": NaN,
+      "Specialty": "Marine repair & generator service; Westerbeke dealer",
+      "Website": NaN,
+      "Notes": "Partner Herschel Herron identified on Buzzfile; Westerbeke dealer",
+      "Unnamed: 9": NaN,
+      "State_Code": "AR",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "TX",
+      "Company Name": "Palmer Power (Palmer Power & Hydraulics Co.)",
+      "Address": "6451 Rupley Circle, Houston, TX 77087",
+      "Contact Name": NaN,
+      "Contact Phone": "(713) 644-6410",
+      "Contact Email": "sales@palmerpower.com; service@palmerpower.com",
+      "Specialty": NaN,
+      "Website": "palmerpower.com",
+      "Notes": "Marine engines and equipment dealer; Yanmar dealer listing notes sales/service/parts and contact details; factory-direct dealer for Westerbeke.",
+      "Unnamed: 9": NaN,
+      "State_Code": "TX",
+      "Specialty_Category": "Unknown",
+      "Engine_Keywords": [
+        "westerbeke",
+        "yanmar",
+        "engine"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "TX",
+      "Company Name": "Plano Marine",
+      "Address": "1477 E Hillpark Rd, The Colony, TX 75056",
+      "Contact Name": NaN,
+      "Contact Phone": "(972) 423-3134",
+      "Contact Email": "dhoyle@planomarine.com",
+      "Specialty": NaN,
+      "Website": "planomarine.com",
+      "Notes": "Boat dealership with multiple locations; sells new and used boats; listed as factory-direct Westerbeke dealer in PDF.",
+      "Unnamed: 9": NaN,
+      "State_Code": "TX",
+      "Specialty_Category": "Unknown",
+      "Engine_Keywords": [
+        "westerbeke",
+        "cat"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MN",
+      "Company Name": "Port of Sunnyside Marina",
+      "Address": "6413 St.\u00a0Croix Trail N, Stillwater, MN 55082",
+      "Contact Name": "Jon\u00a0Husie*",
+      "Contact Phone": "(651) 439-2118",
+      "Contact Email": "jon.husie@sunnysidemarina.com",
+      "Specialty": "Member\u2011owned marina; Westerbeke parts dealer",
+      "Website": "https://www.sunnysidemarina.com",
+      "Notes": "Authorized Westerbeke parts\u2011only dealer listing provides contact details. The Sunnyside Marina website describes it as a member\u2011owned marina on the St.\u00a0Croix River and lists contact information:contentReference[oaicite:29]{index=29}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "MN",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "TX",
+      "Company Name": "Progressive Diesel",
+      "Address": "3120 Loop 197 N., Texas City, TX 77590",
+      "Contact Name": NaN,
+      "Contact Phone": "(409) 945-3456",
+      "Contact Email": "prodiesel6@gmail.com",
+      "Specialty": NaN,
+      "Website": NaN,
+      "Notes": "Factory-direct dealer for Westerbeke (source: Westerbeke PDF); specializes in diesel generator repair; website unreachable.",
+      "Unnamed: 9": NaN,
+      "State_Code": "TX",
+      "Specialty_Category": "Unknown",
+      "Engine_Keywords": [
+        "westerbeke",
+        "diesel",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MN",
+      "Company Name": "RSI Marine / Caribbean Marina",
+      "Address": "110 Sunrise Ave, Excelsior, MN 55331",
+      "Contact Name": "Mike\u00a0Thorson (Service Manager)*",
+      "Contact Phone": "(952) 472-2628",
+      "Contact Email": "laura@caribbeanmn.com",
+      "Specialty": "Marine repair; generator service (discontinued) formerly experienced with Westerbeke",
+      "Website": "https://thecaribbeanmarina.com",
+      "Notes": "RSI Marine provided on\u2011site and mobile marine generator repair services for brands including Kohler, Westerbeke and Cummins:contentReference[oaicite:19]{index=19}, although the company notes that generator service has been discontinued:contentReference[oaicite:20]{index=20}. The RSI Marine \u201cOur Team\u201d page lists Mike\u00a0Thorson as Service Manager responsible for service appointments:contentReference[oaicite:21]{index=21}; contact details show RSI location at The Caribbean Marina with phone 952\u2011472\u20112628 and email laura@caribbeanmn.com:contentReference[oaicite:22]{index=22}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "MN",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "generator",
+        "kohler",
+        "cummins",
+        "cat"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "OK",
+      "Company Name": "Rebel Marine",
+      "Address": "446056 E 350 Rd, Vinita, OK 74301",
+      "Contact Name": "*",
+      "Contact Phone": "(918) 782-2176",
+      "Contact Email": "rebelmarine@neok.com",
+      "Specialty": "Westerbeke dealer; marine service",
+      "Website": "https://rebelmarine.com",
+      "Notes": "Westerbeke dealer list gives address,phone & email. ",
+      "Unnamed: 9": " ",
+      "State_Code": "OK",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MN",
+      "Company Name": "Rockford Marine Group",
+      "Address": "2672 SE Eastwood Ave, Buffalo, MN 55313",
+      "Contact Name": "Jay\u00a0*",
+      "Contact Phone": "(612) 221-5011",
+      "Contact Email": "jay@rockfordmarinegroup.com",
+      "Specialty": "Full\u2011service marine repair; Westerbeke dealer",
+      "Website": "N/A*",
+      "Notes": "Westerbeke factory\u2011dealer directory lists Rockford\u00a0Marine Group as a full\u2011service dealer with contact phone and email. No public website available; contact name inferred from email (Jay).",
+      "Unnamed: 9": NaN,
+      "State_Code": "MN",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MN",
+      "Company Name": "Sam's Marine & Performance",
+      "Address": "11204 Dellwood Rd N, Stillwater, MN 55082",
+      "Contact Name": "Justin\u00a0*",
+      "Contact Phone": "(651) 439-7001",
+      "Contact Email": "justin@samsmarineandperformance.com",
+      "Specialty": "Boat mechanical service; Westerbeke dealer",
+      "Website": "https://www.samsmarineandperformance.com",
+      "Notes": "Listed as a full\u2011service Westerbeke dealer in factory directory. Mariner Exchange listing describes the shop as providing a wide array of mechanical services for inboards, outboards and other propulsion systems:contentReference[oaicite:32]{index=32}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "MN",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "WI",
+      "Company Name": "Schmidt Electrical Construction",
+      "Address": "72\u00a0Means\u00a0Dr, Platteville, WI 53818",
+      "Contact Name": "William\u00a0P.\u00a0Schmidt (President)",
+      "Contact Phone": "(608) 348-7713",
+      "Contact Email": "bill@schmidtelec.com*",
+      "Specialty": "Generator installation & Westerbeke dealer",
+      "Website": "https://schmidtelec.com",
+      "Notes": "Family\u2011owned electrical contractor founded by William\u00a0P.\u00a0Schmidt in 1978:contentReference[oaicite:15]{index=15}; provides generator installation and repair services and is listed as a Westerbeke dealer.",
+      "Unnamed: 9": NaN,
+      "State_Code": "WI",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "LA",
+      "Company Name": "Schubert's Marine",
+      "Address": "126 South Roadway, West End Park, New Orleans, LA 70124",
+      "Contact Name": "David Miller",
+      "Contact Phone": "(504) 282-8136",
+      "Contact Email": "DavidM@schubertsmarine.com",
+      "Specialty": "Full-service marina & Westerbeke dealer",
+      "Website": "http://www.schubertsmarine.com",
+      "Notes": "Marina offering slips, rigging and full mechanical service; authorized Westerbeke dealer and service center",
+      "Unnamed: 9": NaN,
+      "State_Code": "LA",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "LA",
+      "Company Name": "Sea Chest Marine",
+      "Address": "7385 West Roadway St, New Orleans, LA 70124",
+      "Contact Name": "Lawrence Sintes",
+      "Contact Phone": "(504) 909-4963",
+      "Contact Email": "l_sintes@hotmail.com",
+      "Specialty": "Marine hardware & rigging; Westerbeke parts",
+      "Website": "Not available*",
+      "Notes": "Family-run marine distributor supplying rigging and Westerbeke parts; contact details from local forum",
+      "Unnamed: 9": NaN,
+      "State_Code": "LA",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "LA",
+      "Company Name": "Seabrook Harbor & Marine",
+      "Address": "5801 France Rd, New Orleans, LA 70126",
+      "Contact Name": "Jeff Moniz*",
+      "Contact Phone": "(504) 283-6001",
+      "Contact Email": "Not provided*",
+      "Specialty": "Shipyard, marina & Westerbeke service",
+      "Website": "https://seabrookharbor.com",
+      "Notes": "Full-service shipyard and marina providing slips for large yachts and houseboats; listed as Westerbeke dealer",
+      "Unnamed: 9": NaN,
+      "State_Code": "LA",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MI",
+      "Company Name": "SkipperBud's Grand Haven",
+      "Address": "11 Harbor Island Drive, Grand Haven, MI 49417",
+      "Contact Name": "*Service Manager*",
+      "Contact Phone": "(616) 997-2628",
+      "Contact Email": "ghservice@skipperbuds.com",
+      "Specialty": "Marina & service center",
+      "Website": "https://www.skipperbuds.com",
+      "Notes": "Provides dockage, fuel and marine service; Westerbeke support inferred",
+      "Unnamed: 9": NaN,
+      "State_Code": "MI",
+      "Specialty_Category": "Marina Services",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "WI",
+      "Company Name": "SkipperBud's Milwaukee Service Center",
+      "Address": "1919 South Marina Dr, Milwaukee, WI 53207",
+      "Contact Name": "Service\u00a0Manager*",
+      "Contact Phone": "(414) 482-0900",
+      "Contact Email": "mwservice@skipperbuds.com",
+      "Specialty": "Full\u2011service marina & Westerbeke dealer",
+      "Website": "https://www.skipperbuds.com/stores/milwaukee",
+      "Notes": "SkipperBud\u2019s Milwaukee facility offers mechanical repairs and haul\u2011out services up to 55\u00a0ft and is part of the Westerbeke dealer network; contact email from the dealer directory, with phone and location from the service page:contentReference[oaicite:17]{index=17}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "WI",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "cat"
+      ],
+      "Max_Slip_Size": 55
+    },
+    {
+      "State": "TX",
+      "Company Name": "South Austin Marine",
+      "Address": "5340 Highway 290 West, Austin, TX 78735;",
+      "Contact Name": NaN,
+      "Contact Phone": "(512) 892-2432",
+      "Contact Email": "duane@southaustinmarine.com",
+      "Specialty": NaN,
+      "Website": "southaustinmarine.com",
+      "Notes": "Marine boat store; top boat dealership with parts and repairs; listed in PDF as dealer; does not explicitly mention Westerbeke.",
+      "Unnamed: 9": NaN,
+      "State_Code": "TX",
+      "Specialty_Category": "Unknown",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "LA",
+      "Company Name": "The Diesel Man, LLC",
+      "Address": "2183 Philip Drive, Covington, LA 70433",
+      "Contact Name": "Russell W. Cole Sr.*",
+      "Contact Phone": "(985) 400-5554",
+      "Contact Email": "tdmservice@msn.com",
+      "Specialty": "Marine engine & generator sales and service",
+      "Website": "Not available*",
+      "Notes": "Recreational marine dealer listed as Westerbeke/Yanmar representative; offers service and parts",
+      "Unnamed: 9": NaN,
+      "State_Code": "LA",
+      "Specialty_Category": "Engine Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "yanmar"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MI",
+      "Company Name": "Toad Marine Supply",
+      "Address": "6627 Dyke Road, Clay Township, MI 48001",
+      "Contact Name": "*Customer Service*",
+      "Contact Phone": "(810) 671-3365",
+      "Contact Email": "customerservice@toadmarinesupply.com",
+      "Specialty": "Marine parts supplier",
+      "Website": "https://www.toadmarinesupply.com",
+      "Notes": "Parts/internet retailer; supplies Westerbeke generator parts and accessories",
+      "Unnamed: 9": NaN,
+      "State_Code": "MI",
+      "Specialty_Category": "Other",
+      "Engine_Keywords": [
+        "westerbeke",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MN",
+      "Company Name": "Tonka Bay Marina",
+      "Address": "220 Tonka Bay Rd, Excelsior, MN 55331",
+      "Contact Name": "Georgette \u201cGigi\u201d Jabbour (Owner & Manager)",
+      "Contact Phone": "(952) 474-0292",
+      "Contact Email": "service@tonkabaymarina.com",
+      "Specialty": "Certified marina & Westerbeke service provider",
+      "Website": "https://www.tonkabaymarina.com",
+      "Notes": "Mariner Exchange listing notes the marina is MerCruiser\u2013Volvo\u2011Penta, Westerbeke and KOHLER certified service and warranty provider:contentReference[oaicite:17]{index=17}. An article on women in marine leadership notes that Georgette \u201cGigi\u201d Jabbour owns and manages Tonka Bay Marina:contentReference[oaicite:18]{index=18}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "MN",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "volvo",
+        "mercruiser",
+        "kohler"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MI",
+      "Company Name": "Torresen Marine, Inc.",
+      "Address": "3003 Lakeshore Drive, Muskegon, MI 49441",
+      "Contact Name": "*Kathleen*",
+      "Contact Phone": "(231) 759-8596",
+      "Contact Email": "kathleen@torresen.com",
+      "Specialty": "Authorized engine & generator service",
+      "Website": "https://torresen.com",
+      "Notes": "Authorized sales and service center for Westerbeke engines and generators",
+      "Unnamed: 9": NaN,
+      "State_Code": "MI",
+      "Specialty_Category": "Engine Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "engine",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "TX",
+      "Company Name": "True North Marine",
+      "Address": "1206 Marina Bay Drive, Clear Lake Shores, TX 77565",
+      "Contact Name": NaN,
+      "Contact Phone": "(281) 549-4300",
+      "Contact Email": "service@truenorth-marine.com",
+      "Specialty": NaN,
+      "Website": "truenorth-marine.com",
+      "Notes": "Full-service shipyard and dockside support; offers Westerbeke engine/generator sales and services and after-hours repair.",
+      "Unnamed: 9": NaN,
+      "State_Code": "TX",
+      "Specialty_Category": "Unknown",
+      "Engine_Keywords": [
+        "westerbeke",
+        "engine",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "KY",
+      "Company Name": "Unlimited Marine (John & Kim Stivers)",
+      "Address": "2624 S. Hwy 127, Russell Springs, KY 42642",
+      "Contact Name": "John Stivers*",
+      "Contact Phone": "(270) 858-6911",
+      "Contact Email": "john@unlimitedmarine.com",
+      "Specialty": "Westerbeke Dealer/Service",
+      "Website": "https://www.unlimitedmarine.com",
+      "Notes": "Authorized sales and service dealer for Westerbeke generators; run by John & Kim Stivers:contentReference[oaicite:0]{index=0}",
+      "Unnamed: 9": NaN,
+      "State_Code": "KY",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "IN",
+      "Company Name": "W.W. Williams Service (Clarksville)",
+      "Address": "2237 Koetter Dr, Clarksville, IN 47129",
+      "Contact Name": "Steve\u00a0Knutti*",
+      "Contact Phone": "(317) 759-5084",
+      "Contact Email": "sknutti@wwwilliams.com",
+      "Specialty": "Generator sales & service (Westerbeke service center)",
+      "Website": "https://www.wwwilliams.com",
+      "Notes": "Westerbeke dealer/service provider; address and phone from Westerbeke dealer list and location page; Steve\u00a0Knutti* is inferred from email (branch contact):contentReference[oaicite:6]{index=6}",
+      "Unnamed: 9": NaN,
+      "State_Code": "IN",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "cat"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "AR",
+      "Company Name": "Wake Zone Inc.",
+      "Address": "1649 N. Crystal Springs Rd, Royal, AR 71968",
+      "Contact Name": "Donny & Suzanne Kindt",
+      "Contact Phone": "(501) 991-3600",
+      "Contact Email": "contact@wakezone.com",
+      "Specialty": "Luxury houseboat rentals & Westerbeke dealer",
+      "Website": "https://houseboatingarkansas.com",
+      "Notes": "Family\u2011owned houseboat rentals; listed as Westerbeke dealer",
+      "Unnamed: 9": NaN,
+      "State_Code": "AR",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "TX",
+      "Company Name": "Water Power Marine",
+      "Address": "313 Aviator Drive, Fort Worth, TX 76179",
+      "Contact Name": NaN,
+      "Contact Phone": "(817) 313-9808",
+      "Contact Email": "txboatboy@gmail.com",
+      "Specialty": NaN,
+      "Website": "waterpowermarine.com",
+      "Notes": "Dockside boat and yacht repair service; Westerbeke dealer; provides generator repair and replacement services for gas/diesel units.",
+      "Unnamed: 9": NaN,
+      "State_Code": "TX",
+      "Specialty_Category": "Unknown",
+      "Engine_Keywords": [
+        "westerbeke",
+        "diesel",
+        "gas",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MI",
+      "Company Name": "Wriska Marine Service",
+      "Address": "24102 Jefferson Avenue, St. Clair Shores, MI 48080",
+      "Contact Name": "M. Mahoney*",
+      "Contact Phone": "(586) 778-7850",
+      "Contact Email": "mahoneym2@comcast.net",
+      "Specialty": "Marine service & Westerbeke dealer",
+      "Website": "*N/A*",
+      "Notes": "Full-service marine repair and authorized Westerbeke dealer",
+      "Unnamed: 9": NaN,
+      "State_Code": "MI",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "TX",
+      "Company Name": "Yacht Equipment Service Centers (YES Centers)",
+      "Address": "828 Marina Bay Dr, Kemah, TX 77565",
+      "Contact Name": NaN,
+      "Contact Phone": "(281) 538-9377",
+      "Contact Email": "cbaker@yescenters.com; service@yescenters.com",
+      "Specialty": NaN,
+      "Website": "yescenters.com",
+      "Notes": "Marine service center and Westerbeke dealer; sells and services Westerbeke engines/generators.",
+      "Unnamed: 9": NaN,
+      "State_Code": "TX",
+      "Specialty_Category": "Unknown",
+      "Engine_Keywords": [
+        "westerbeke",
+        "engine",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "WI",
+      "Company Name": "Yacht Works, Inc. (Sister Bay)",
+      "Address": "10967 N Bayshore Dr, Sister Bay, WI 54234",
+      "Contact Name": "Emmett\u00a0Cregan*",
+      "Contact Phone": "(920) 854-2124",
+      "Contact Email": "kent@yachtworks.com*",
+      "Specialty": "Yacht sales & Westerbeke service",
+      "Website": "https://doorcountyyachtworks.com",
+      "Notes": "Door County Yacht Works contact page lists the Sister Bay address and phone:contentReference[oaicite:20]{index=20}. The company is listed as a Westerbeke dealer in the directory; contact email and manager name inferred from dealer listing/LinkedIn.",
+      "Unnamed: 9": NaN,
+      "State_Code": "WI",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0
+    }
+  ],
+  "large_marinas": [
+    {
+      "State": "AL",
+      "Company Name": "Dog River Marina",
+      "Address": "5004 Dauphin Island Pkwy, Mobile, AL 36605",
+      "Contact Name": "Bob Schwarz (General Manager)",
+      "Contact Phone": "(251) 471-5449",
+      "Contact Email": "bschwarz@dogrivermarina.com",
+      "Specialty": "Full\u2011service Marina & Generator Sales",
+      "Website": "https://dogrivermarina.com",
+      "Notes": "Full\u2011service marina that accommodates vessels up to 150\u00a0ft with a 70\u2011ton Travelift; offers boat repairs and engine/generator sales and service:contentReference[oaicite:10]{index=10}:contentReference[oaicite:11]{index=11}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "AL",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "engine",
+        "generator"
+      ],
+      "Max_Slip_Size": 150
+    },
+    {
+      "State": "MS",
+      "Company Name": "Captain's Wharf Marina",
+      "Address": "1408 Cowan Rd, Gulfport, MS 39507",
+      "Contact Name": "(Name unavailable)*",
+      "Contact Phone": "(228) 669-9237",
+      "Contact Email": "(Email unavailable)*",
+      "Specialty": "Wet and covered dry slips",
+      "Website": "http://captainswharfmarina.com",
+      "Notes": "New marina with gas/diesel dock; news article notes capacity up to 150\u00a0ft",
+      "Unnamed: 9": NaN,
+      "State_Code": "MS",
+      "Specialty_Category": "Marina Services",
+      "Engine_Keywords": [
+        "diesel",
+        "gas"
+      ],
+      "Max_Slip_Size": 150
+    },
+    {
+      "State": "MS",
+      "Company Name": "Safe Harbor Aqua Yacht",
+      "Address": "3832 Hwy 25, Iuka, MS 38852",
+      "Contact Name": "Pam Snyder",
+      "Contact Phone": "(662) 423-2222",
+      "Contact Email": "psnyder@shmarinas.com",
+      "Specialty": "Full\u2011service marina (max vessel 120\u00a0ft)",
+      "Website": "https://shmarinas.com/aqua-yacht",
+      "Notes": "General manager and dockmaster oversee 120 ft slips and full services",
+      "Unnamed: 9": NaN,
+      "State_Code": "MS",
+      "Specialty_Category": "Marina Services",
+      "Engine_Keywords": [],
+      "Max_Slip_Size": 120
+    },
+    {
+      "State": "MI",
+      "Company Name": "Crosswinds Marine Service",
+      "Address": "302 South Lake Street, Whitehall, MI 49461",
+      "Contact Name": "Dale *",
+      "Contact Phone": "(231) 894-4549",
+      "Contact Email": "dale@crosswindsmarineservice.com",
+      "Specialty": "Full-service marina & Westerbeke-certified",
+      "Website": "https://crosswindsmarineservice.com",
+      "Notes": "Factory-certified Westerbeke technicians; slips 30\u201350 ft with transients up to 105 ft",
+      "Unnamed: 9": NaN,
+      "State_Code": "MI",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 105
+    },
+    {
+      "State": "TX",
+      "Company Name": "Harborside Houseboat Rentals",
+      "Address": "17141 Rocky Ridge Rd, Austin, TX 78734",
+      "Contact Name": NaN,
+      "Contact Phone": "(512) 266-1069",
+      "Contact Email": NaN,
+      "Specialty": NaN,
+      "Website": "https://harborsiderentals.com/",
+      "Notes": "Family-owned rental company offering houseboats (up to 102 ft on Lake Travis)",
+      "Unnamed: 9": NaN,
+      "State_Code": "TX",
+      "Specialty_Category": "Unknown",
+      "Engine_Keywords": [],
+      "Max_Slip_Size": 102
+    },
+    {
+      "State": "AR",
+      "Company Name": "North Shores Resort & Marina",
+      "Address": "190 Shore View Loop, Jessieville, AR 71949",
+      "Contact Name": "Brittnie Heath",
+      "Contact Phone": "(501) 984-5420",
+      "Contact Email": "north_shores@yahoo.com",
+      "Specialty": "Resort, marina & houseboat slip rentals",
+      "Website": "https://northshoresfun.com",
+      "Notes": "BBB lists Brittnie Heath as owner; offers boat slips up to 100 ft and houseboat rentals",
+      "Unnamed: 9": NaN,
+      "State_Code": "AR",
+      "Specialty_Category": "Marina Services",
+      "Engine_Keywords": [],
+      "Max_Slip_Size": 100
+    },
+    {
+      "State": "AL",
+      "Company Name": "Alred Marina",
+      "Address": "351 Marina Rd., Guntersville, AL 35976",
+      "Contact Name": "Russ Cranford (Manager)",
+      "Contact Phone": "(256) 582-4400",
+      "Contact Email": "info@alredmarina.com*",
+      "Specialty": "Marina with Large Covered Slips",
+      "Website": "https://alredmarina.com",
+      "Notes": "Marina offering wet slips up to 80\u00a0ft and covered slips measuring 50\u2032\u00d718\u2032 and 70\u2032\u00d720\u2032; owners Bill & Judy\u00a0Cranford and manager Russ\u00a0Cranford assist boaters:contentReference[oaicite:14]{index=14}:contentReference[oaicite:15]{index=15}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "AL",
+      "Specialty_Category": "Marina Services",
+      "Engine_Keywords": [],
+      "Max_Slip_Size": 80
+    },
+    {
+      "State": "MS",
+      "Company Name": "Bay Springs Marina",
+      "Address": "48 County Road 3495, New Site, MS 38859",
+      "Contact Name": "Chris Mills*",
+      "Contact Phone": "(662) 728-2449",
+      "Contact Email": "millsct1959@yahoo.com",
+      "Specialty": "Westerbeke dealer & full-service marina",
+      "Website": "https://www.bayspringsmarina.com",
+      "Notes": "Family-owned marina with 165 slips and travel lift for boats up to 80 ft; designated Westerbeke dealer",
+      "Unnamed: 9": NaN,
+      "State_Code": "MS",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 80
+    },
+    {
+      "State": "WI",
+      "Company Name": "SkipperBud's Sturgeon Bay",
+      "Address": "705 Quarterdeck Lane, Sturgeon Bay, WI 54235",
+      "Contact Name": "Service\u00a0Manager*",
+      "Contact Phone": "(920) 746-8200",
+      "Contact Email": "(not listed)*",
+      "Specialty": "Full\u2011service marina & Westerbeke dealer",
+      "Website": "https://www.skipperbuds.com/stores/sturgeon-bay",
+      "Notes": "Store page lists address and phone; this SkipperBud\u2019s location offers heated showroom, in\u2011water sales display and full service up to 80\u00a0ft boats:contentReference[oaicite:18]{index=18}. Contact email not provided; we reference the dealer list for service.",
+      "Unnamed: 9": NaN,
+      "State_Code": "WI",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "cat"
+      ],
+      "Max_Slip_Size": 80
+    },
+    {
+      "State": "IA",
+      "Company Name": "Dubuque Marina & Yardarm",
+      "Address": "1201 Shiras Ave Ext, Dubuque, IA 52001",
+      "Contact Name": "Alex Schute",
+      "Contact Phone": "563-582-3653 ext. 305",
+      "Contact Email": "jamie@dubuquemarina.com",
+      "Specialty": "Marina with covered/uncovered slips up to 75 ft",
+      "Website": "https://www.dubuquemarina.com",
+      "Notes": "Offers slips up to 75 ft; contact Alex Schute is listed for transient dockage",
+      "Unnamed: 9": NaN,
+      "State_Code": "IA",
+      "Specialty_Category": "Marina Services",
+      "Engine_Keywords": [],
+      "Max_Slip_Size": 75
+    },
+    {
+      "State": "MI",
+      "Company Name": "Irish Boat Shop (Charlevoix)",
+      "Address": "13000 Stover Road, Charlevoix, MI 49720",
+      "Contact Name": "*Unknown*",
+      "Contact Phone": "(231) 547-9967",
+      "Contact Email": "cvxparts@irishboatshop.com",
+      "Specialty": "Boat shop & large-haul service",
+      "Website": "https://irishboatshop.com",
+      "Notes": "Operates travelifts up to 50 ton and services boats up to 75 ft",
+      "Unnamed: 9": NaN,
+      "State_Code": "MI",
+      "Specialty_Category": "General Repair",
+      "Engine_Keywords": [],
+      "Max_Slip_Size": 75
+    },
+    {
+      "State": "MI",
+      "Company Name": "Onekama Marine",
+      "Address": "4378 Crescent Beach Road, Onekama, MI 49675",
+      "Contact Name": "Carrie Paxton",
+      "Contact Phone": "(231) 889-5000",
+      "Contact Email": "carrie@onekamamarine.com",
+      "Specialty": "Full-service marina & repair",
+      "Website": "https://onekamamarine.com",
+      "Notes": "110-slip marina accommodating boats up to 70 ft with fuel and repair services",
+      "Unnamed: 9": NaN,
+      "State_Code": "MI",
+      "Specialty_Category": "Marina Services",
+      "Engine_Keywords": [],
+      "Max_Slip_Size": 70
+    },
+    {
+      "State": "MI",
+      "Company Name": "Bay Harbor Marina",
+      "Address": "5309 East Wilder Road, Bay City, MI 48706",
+      "Contact Name": "Dale Gettel",
+      "Contact Phone": "(989) 684-5010",
+      "Contact Email": "dave@bayharborbaycity.com",
+      "Specialty": "Full-service marina & repair",
+      "Website": "https://bayharborbaycity.com",
+      "Notes": "458-slip marina; accommodates vessels up to 70 ft and offers engine repair",
+      "Unnamed: 9": NaN,
+      "State_Code": "MI",
+      "Specialty_Category": "Marina Services",
+      "Engine_Keywords": [
+        "engine"
+      ],
+      "Max_Slip_Size": 70
+    },
+    {
+      "State": "WI",
+      "Company Name": "Great River Houseboats / Alma Marina",
+      "Address": "125 Beach Harbor Road, Alma, WI 54610",
+      "Contact Name": "General Manager*",
+      "Contact Phone": "(608) 685-3333",
+      "Contact Email": "info@almamarina.net",
+      "Specialty": "Houseboat rentals & marina",
+      "Website": "https://almamarina.net",
+      "Notes": "Great River Houseboats at Alma Marina offers boats from 40 to 59\u00a0ft sleeping up to 12 and includes full kitchens and flybridge with wet bar:contentReference[oaicite:3]{index=3}. Alma Marina handles boats up to 60\u00a0ft and provides 30\u201350\u00a0amp slips:contentReference[oaicite:4]{index=4}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "WI",
+      "Specialty_Category": "Marina Services",
+      "Engine_Keywords": [],
+      "Max_Slip_Size": 60
+    },
+    {
+      "State": "IA",
+      "Company Name": "Red Rock Marina",
+      "Address": "1768 Hwy G28, Pella, IA 50219",
+      "Contact Name": "Matt Bales",
+      "Contact Phone": "(641) 627-5743",
+      "Contact Email": "redrock@suntex.com",
+      "Specialty": "Marina with covered/uncovered slips up to 60 ft",
+      "Website": "https://redrockmarina.com",
+      "Notes": "Marina with slips up to 60 ft and 25-ton Con-O-Lift; general manager Matt Bales identified in BBB profile",
+      "Unnamed: 9": NaN,
+      "State_Code": "IA",
+      "Specialty_Category": "Marina Services",
+      "Engine_Keywords": [],
+      "Max_Slip_Size": 60
+    },
+    {
+      "State": "WI",
+      "Company Name": "SkipperBud's Milwaukee Service Center",
+      "Address": "1919 South Marina Dr, Milwaukee, WI 53207",
+      "Contact Name": "Service\u00a0Manager*",
+      "Contact Phone": "(414) 482-0900",
+      "Contact Email": "mwservice@skipperbuds.com",
+      "Specialty": "Full\u2011service marina & Westerbeke dealer",
+      "Website": "https://www.skipperbuds.com/stores/milwaukee",
+      "Notes": "SkipperBud\u2019s Milwaukee facility offers mechanical repairs and haul\u2011out services up to 55\u00a0ft and is part of the Westerbeke dealer network; contact email from the dealer directory, with phone and location from the service page:contentReference[oaicite:17]{index=17}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "WI",
+      "Specialty_Category": "Generator Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "cat"
+      ],
+      "Max_Slip_Size": 55
+    },
+    {
+      "State": "AR",
+      "Company Name": "Lacey's Boating Center / Narrows Marina",
+      "Address": "7674 Edgemont Rd, Greers Ferry, AR 72067",
+      "Contact Name": "Jon Stillwell",
+      "Contact Phone": "(501) 825-6214",
+      "Contact Email": "brooke@laceysmarina.com",
+      "Specialty": "Houseboat rentals & marina services",
+      "Website": "https://www.laceysmarina.com",
+      "Notes": "Offers 75-ft houseboat with 15 kW Westerbeke generator; staff page lists Jon Stillwell as marina manager",
+      "Unnamed: 9": NaN,
+      "State_Code": "AR",
+      "Specialty_Category": "Marina Services",
+      "Engine_Keywords": [
+        "westerbeke",
+        "generator"
+      ],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MS",
+      "Company Name": "Columbus Marina",
+      "Address": "295 Marina Drive, Columbus, MS 39705",
+      "Contact Name": "Steve Arndt",
+      "Contact Phone": "(662) 228-1022",
+      "Contact Email": "steve@columbusmarina.com",
+      "Specialty": "Full\u2011service marina for large vessels",
+      "Website": "http://www.columbusmarina.com",
+      "Notes": "Provides covered and uncovered slips, pump\u2011out and fuel services for large boats",
+      "Unnamed: 9": NaN,
+      "State_Code": "MS",
+      "Specialty_Category": "Marina Services",
+      "Engine_Keywords": [],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "AR",
+      "Company Name": "Iron Mountain Lodge & Marina",
+      "Address": "134 Iron Mountain Marina Dr, Arkadelphia, AR 71923",
+      "Contact Name": "Charles Egleston",
+      "Contact Phone": "(870) 246-4310",
+      "Contact Email": "info@iron-mountain.com",
+      "Specialty": "Lodge & marina with boat slips and storage",
+      "Website": "https://www.iron-mountain.com",
+      "Notes": "BBB lists Charles Egleston as manager; marina offers boat slips and storage for large vessels",
+      "Unnamed: 9": NaN,
+      "State_Code": "AR",
+      "Specialty_Category": "Marina Services",
+      "Engine_Keywords": [],
+      "Max_Slip_Size": 0
+    },
+    {
+      "State": "MS",
+      "Company Name": "Gulfport Municipal Marina (Bert Jones Yacht Basin)",
+      "Address": "1133 20th Avenue, Gulfport, MS 39501",
+      "Contact Name": "Russell Holliman Jr.",
+      "Contact Phone": "(228) 867-8721",
+      "Contact Email": "marina@gulfport-ms.gov",
+      "Specialty": "City marina (up to 140\u2011ft vessels)",
+      "Website": "https://www.gulfport-ms.gov/business/marina",
+      "Notes": "City-owned marina with 24/7 staff; slip-side pump\u2011out and amenities",
+      "Unnamed: 9": NaN,
+      "State_Code": "MS",
+      "Specialty_Category": "Marina Services",
+      "Engine_Keywords": [],
+      "Max_Slip_Size": 0
+    }
+  ],
+  "sales_leads": [
+    {
+      "State": "AL",
+      "Company Name": "Charlie's Diesel & Marine",
+      "Address": "13066 Alabama St., Elberta, AL 36530",
+      "Contact Name": "Charles Stewart (Owner)",
+      "Contact Phone": "(251) 987-5258",
+      "Contact Email": "charlies@cdmal.com",
+      "Specialty": "Diesel Engine & Generator Service",
+      "Website": "https://www.charliesdieselandmarineinc.com/",
+      "Notes": "Provides diesel engine service and repair, generator service and repair and other marine systems for boats:contentReference[oaicite:3]{index=3}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "AL",
+      "Specialty_Category": "Engine Service",
+      "Engine_Keywords": [
+        "diesel",
+        "engine",
+        "generator"
+      ],
+      "Max_Slip_Size": 0,
+      "Lead_Score": 10
+    },
+    {
+      "State": "AL",
+      "Company Name": "Saunders Yachtworks",
+      "Address": "605 Waterway East Blvd, Gulf Shores, AL 36542",
+      "Contact Name": "John Fitzgerald (CEO)",
+      "Contact Phone": "(251) 981-3700",
+      "Contact Email": "jfitzgerald@saundersyacht.com",
+      "Specialty": "Diesel Engine & Generator Repair",
+      "Website": "https://saundersyacht.com",
+      "Notes": "Authorized service center for major diesel engines and generators with certified mechanics and field service; facilities include 165\u2011ton and 60\u2011ton lifts for large yacht repairs:contentReference[oaicite:7]{index=7}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "AL",
+      "Specialty_Category": "Engine Service",
+      "Engine_Keywords": [
+        "diesel",
+        "engine",
+        "generator"
+      ],
+      "Max_Slip_Size": 0,
+      "Lead_Score": 10
+    },
+    {
+      "State": "AL",
+      "Company Name": "Middleton Marine (at Dog River Marina)",
+      "Address": "5004 Dauphin Island Pkwy, Mobile, AL 36605",
+      "Contact Name": "Ray Demski (Service Manager)",
+      "Contact Phone": "(251) 478-4432",
+      "Contact Email": "rdemski@dogrivermarina.com",
+      "Specialty": "Engine & Generator Sales/Service",
+      "Website": "https://dogrivermarina.com/middleton-marine",
+      "Notes": "On\u2011site at Dog River Marina, Middleton Marine provides engine and generator sales and repair; contact Ray\u00a0Demski via Yanmar dealer listing:contentReference[oaicite:12]{index=12}:contentReference[oaicite:13]{index=13}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "AL",
+      "Specialty_Category": "Engine Service",
+      "Engine_Keywords": [
+        "yanmar",
+        "engine",
+        "generator"
+      ],
+      "Max_Slip_Size": 0,
+      "Lead_Score": 10
+    },
+    {
+      "State": "IN",
+      "Company Name": "Hot Tomolly Yacht Charter",
+      "Address": "Washington Park Marina, Michigan City, IN 46360*",
+      "Contact Name": "Captain\u00a0Tom\u00a0Dogan",
+      "Contact Phone": "(219) 763-3777",
+      "Contact Email": "capt.tom@hottomolly.info",
+      "Specialty": "76\u2011ft motor\u2011yacht charter",
+      "Website": "https://hottomolly.info",
+      "Notes": "Charter operates a 76\u2011ft Lazzara motor yacht; contact details and owner Captain\u00a0Tom\u00a0Dogan from site:contentReference[oaicite:9]{index=9}:contentReference[oaicite:10]{index=10}",
+      "Unnamed: 9": NaN,
+      "State_Code": "IN",
+      "Specialty_Category": "Engine Service",
+      "Engine_Keywords": [
+        "motor"
+      ],
+      "Max_Slip_Size": 0,
+      "Lead_Score": 10
+    },
+    {
+      "State": "LA",
+      "Company Name": "The Diesel Man, LLC",
+      "Address": "2183 Philip Drive, Covington, LA 70433",
+      "Contact Name": "Russell W. Cole Sr.*",
+      "Contact Phone": "(985) 400-5554",
+      "Contact Email": "tdmservice@msn.com",
+      "Specialty": "Marine engine & generator sales and service",
+      "Website": "Not available*",
+      "Notes": "Recreational marine dealer listed as Westerbeke/Yanmar representative; offers service and parts",
+      "Unnamed: 9": NaN,
+      "State_Code": "LA",
+      "Specialty_Category": "Engine Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "yanmar"
+      ],
+      "Max_Slip_Size": 0,
+      "Lead_Score": 10
+    },
+    {
+      "State": "MI",
+      "Company Name": "Longitude Marine",
+      "Address": "23710 Harper Avenue, St. Clair Shores, MI 48080",
+      "Contact Name": "*Unknown*",
+      "Contact Phone": "(586) 601-8677",
+      "Contact Email": "info@longitudemarine.com",
+      "Specialty": "Marine diesel & generator repair",
+      "Website": "https://longitudemarine.com",
+      "Notes": "Offers marine diesel parts and repair including generators",
+      "Unnamed: 9": NaN,
+      "State_Code": "MI",
+      "Specialty_Category": "Engine Service",
+      "Engine_Keywords": [
+        "diesel",
+        "generator"
+      ],
+      "Max_Slip_Size": 0,
+      "Lead_Score": 10
+    },
+    {
+      "State": "MI",
+      "Company Name": "Torresen Marine, Inc.",
+      "Address": "3003 Lakeshore Drive, Muskegon, MI 49441",
+      "Contact Name": "*Kathleen*",
+      "Contact Phone": "(231) 759-8596",
+      "Contact Email": "kathleen@torresen.com",
+      "Specialty": "Authorized engine & generator service",
+      "Website": "https://torresen.com",
+      "Notes": "Authorized sales and service center for Westerbeke engines and generators",
+      "Unnamed: 9": NaN,
+      "State_Code": "MI",
+      "Specialty_Category": "Engine Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "engine",
+        "generator"
+      ],
+      "Max_Slip_Size": 0,
+      "Lead_Score": 10
+    },
+    {
+      "State": "MS",
+      "Company Name": "Johnson Diesel Service",
+      "Address": "12262A Parkers Creek Rd, Biloxi, MS 39532",
+      "Contact Name": "David Johnson",
+      "Contact Phone": "(228) 392-1311",
+      "Contact Email": "davidj@johnsondiesel.com",
+      "Specialty": "Marine engine & generator sales/service (Westerbeke dealer)",
+      "Website": "https://www.johnsondiesel.com",
+      "Notes": "Offers marine generator and engine service; 50 years experience",
+      "Unnamed: 9": NaN,
+      "State_Code": "MS",
+      "Specialty_Category": "Engine Service",
+      "Engine_Keywords": [
+        "engine",
+        "generator"
+      ],
+      "Max_Slip_Size": 0,
+      "Lead_Score": 10
+    },
+    {
+      "State": "OH",
+      "Company Name": "Great Lakes Diesel Inc.",
+      "Address": "13920 W Lake Rd, Vermilion, OH 44089",
+      "Contact Name": "Jim\u00a0Zima",
+      "Contact Phone": "(440) 963-9580",
+      "Contact Email": "info@greatlakesdieselmarine.com",
+      "Specialty": "Marine engine and generator sales & service (Westerbeke authorized)",
+      "Website": "https://www.greatlakesdieselmarine.com",
+      "Notes": "Company website lists address, phone and email and states they are factory-authorized for Yanmar, Scania, Kubota and Westerbeke engines and generators:contentReference[oaicite:21]{index=21}:contentReference[oaicite:22]{index=22}. Buzzfile notes owner Jim\u00a0Zima:contentReference[oaicite:23]{index=23}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "OH",
+      "Specialty_Category": "Engine Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "yanmar",
+        "engine",
+        "generator"
+      ],
+      "Max_Slip_Size": 0,
+      "Lead_Score": 10
+    },
+    {
+      "State": "OH",
+      "Company Name": "Burt's Diesel Service, Inc.",
+      "Address": "1428 W Main St, Woodville, OH 43469",
+      "Contact Name": "Allan\u00a0Huss",
+      "Contact Phone": "(419) 849-3853",
+      "Contact Email": "info@burtsdiesel.com*",
+      "Specialty": "Boat engine repair & marine sales (Westerbeke service)",
+      "Website": "https://www.burtsdieselservice.com",
+      "Notes": "BBB profile lists owner Allan\u00a0Huss and notes they specialize in boat engine repair and marine sales:contentReference[oaicite:26]{index=26}. Email inferred from business domain*.",
+      "Unnamed: 9": NaN,
+      "State_Code": "OH",
+      "Specialty_Category": "Engine Service",
+      "Engine_Keywords": [
+        "engine"
+      ],
+      "Max_Slip_Size": 0,
+      "Lead_Score": 10
+    },
+    {
+      "State": "OK",
+      "Company Name": "Dickson Marine Service\u00a0LLC",
+      "Address": "26275 South Highway 125, Afton, OK 74331",
+      "Contact Name": "Bobby*",
+      "Contact Phone": "(918) 314-4419",
+      "Contact Email": "bobby@dicksonmarineservice.com",
+      "Specialty": "Westerbeke dealer; boat engine & generator service",
+      "Website": "https://dicksonmarineservice.com",
+      "Notes": "Westerbeke dealer list gives address, phone & email.",
+      "Unnamed: 9": " ",
+      "State_Code": "OK",
+      "Specialty_Category": "Engine Service",
+      "Engine_Keywords": [
+        "westerbeke"
+      ],
+      "Max_Slip_Size": 0,
+      "Lead_Score": 10
+    },
+    {
+      "State": "PA",
+      "Company Name": "Cleveland Brothers \u2013 Marine Power (Erie branch)",
+      "Address": "3950 Depot Rd, Erie, PA 16510",
+      "Contact Name": "Service Representative*",
+      "Contact Phone": "(814) 898-3388",
+      "Contact Email": "*",
+      "Specialty": "Marine engine & generator service",
+      "Website": "https://www.clevelandbrothers.com/power-systems/marine/",
+      "Notes": "Offers repair and maintenance services for marine engines and generators; supports large vessels.",
+      "Unnamed: 9": NaN,
+      "State_Code": "PA",
+      "Specialty_Category": "Engine Service",
+      "Engine_Keywords": [
+        "engine",
+        "generator"
+      ],
+      "Max_Slip_Size": 0,
+      "Lead_Score": 10
+    },
+    {
+      "State": "WI",
+      "Company Name": "Manitowoc Marina",
+      "Address": "425 Maritime Dr, Manitowoc, WI 54220",
+      "Contact Name": "Gary\u00a0D\u2019Aoust* (Service Mgr)",
+      "Contact Phone": "(920) 682-5117",
+      "Contact Email": "service@manitowoc-marina.com",
+      "Specialty": "Authorized Westerbeke service & engine center",
+      "Website": "https://www.manitowoc-marina.com",
+      "Notes": "The marine engine service page states Manitowoc Marina is an authorized service center for Yanmar, Volvo\u00a0Penta, Westerbeke and Tohatsu marine motors:contentReference[oaicite:10]{index=10}. Team page lists Gary\u00a0D\u2019Aoust as service manager:contentReference[oaicite:11]{index=11}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "WI",
+      "Specialty_Category": "Engine Service",
+      "Engine_Keywords": [
+        "westerbeke",
+        "yanmar",
+        "volvo",
+        "engine",
+        "motor"
+      ],
+      "Max_Slip_Size": 0,
+      "Lead_Score": 10
+    },
+    {
+      "State": "WI",
+      "Company Name": "Schooner\u00a0Bay Imported Motors",
+      "Address": "90530\u00a0Pageant\u00a0Rd, Bayfield, WI 54814",
+      "Contact Name": "Alfred\u00a0R.\u00a0Holzer",
+      "Contact Phone": "(715) 779-3266",
+      "Contact Email": "holzralf@yahoo.com",
+      "Specialty": "Marina & engine repair (Westerbeke dealer)",
+      "Website": "https://schoonerbaymarina.com",
+      "Notes": "Waterway Guide lists this facility with contact Alfred\u00a0R.\u00a0Holzer and indicates they provide engine and propeller services and have slip amenities:contentReference[oaicite:16]{index=16}.",
+      "Unnamed: 9": NaN,
+      "State_Code": "WI",
+      "Specialty_Category": "Engine Service",
+      "Engine_Keywords": [
+        "engine",
+        "cat"
+      ],
+      "Max_Slip_Size": 0,
+      "Lead_Score": 10
+    }
+  ],
+  "state_breakdown": {
+    "MI": 25,
+    "TX": 22,
+    "MS": 19,
+    "WI": 18,
+    "KY": 16,
+    "MN": 16,
+    "IL": 16,
+    "AL": 10,
+    "AR": 9,
+    "MO": 9,
+    "LA": 8,
+    "IN": 8,
+    "OK": 6,
+    "OH": 5,
+    "PA": 5,
+    "IA": 5,
+    "KS": 1,
+    "NE": 1
+  },
+  "specialty_breakdown": {
+    "Generator Service": 91,
+    "Marina Services": 40,
+    "Unknown": 24,
+    "Houseboat Services": 19,
+    "Engine Service": 14,
+    "General Repair": 6,
+    "Other": 5
+  }
+}
