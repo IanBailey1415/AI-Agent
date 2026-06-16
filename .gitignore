@@ -1,0 +1,6 @@
+# Python virtual environment (created during dev setup)
+.venv/
+
+# Python bytecode caches
+__pycache__/
+*.pyc
